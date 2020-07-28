@@ -1,0 +1,7 @@
+Road Name,East,West,North,South,Length(meter),,
+Truck,12,5,2,1,8,,
+Car,2,20,4,12,4.8,,https://en.wikipedia.org/wiki/Full-size_car
+Motorcycle,7,12,2,12,2,, https://en.wikipedia.org/wiki/Motorcycle
+Bus,12,13,1,20,11.95,,https://en.wikipedia.org/wiki/Transit_bus
+Ambulance,1,0,2,0,5.8,,. https://en.wikipedia.org/wiki/Pickup_truck
+Cng,4,0,15,2,2.635,,. https://www.globalbajaj.com/global/english/brands/intracity/re/re-4s/specifications/
